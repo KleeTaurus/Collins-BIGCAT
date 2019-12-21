@@ -8,4 +8,4 @@ Collins Big Cat is a whole-school reading programme that provides complete suppo
 
 ## Band 03 (Yellow)
 
-[01.Around the World](./Read_to_Succeed_Band_03\(Yellow\)/01.Around-the-World.md)
+[01. Around the World](./Read_to_Succeed_Band_03\(Yellow\)/01.Around-the-World.md)

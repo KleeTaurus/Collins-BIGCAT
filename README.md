@@ -9,3 +9,6 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 ## Band 03A (Yellow)
 
 [01. Around the World](./Read_to_Succeed_Band_03A\(Yellow\)/01.Around-the-World.md)
+
+[02. Lights](./Read_to_Succeed_Band_03A\(Yellow\)/02.Lights.md)
+

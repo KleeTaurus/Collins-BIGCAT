@@ -14,5 +14,7 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 
 [03. The New Kite](./Read_to_Succeed_Band_03A\(Yellow\)/03.The-New-Kite.md)
 
+[04. Where is my School?](./Read_to_Succeed_Band_03A\(Yellow\)/04.Where-is-my-School.md)
+
 [05. The Little Egg](./Read_to_Succeed_Band_03A\(Yellow\)/05.The-Little-Egg.md)
 

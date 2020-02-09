@@ -18,3 +18,5 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 
 [05. The Little Egg](./Read_to_Succeed_Band_03A\(Yellow\)/05.The-Little-Egg.md)
 
+[06. Dance to the Beat](./Read_to_Succeed_Band_03A\(Yellow\)/06.Dance-to-the-Beat.md)
+

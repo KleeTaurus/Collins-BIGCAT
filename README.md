@@ -20,3 +20,5 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 
 [06. Dance to the Beat](./Read_to_Succeed_Band_03A\(Yellow\)/06.Dance-to-the-Beat.md)
 
+[07. Sam the Big Bad Cat](./Read_to_Succeed_Band_03A\(Yellow\)/07.Sam-the-Big-Bad-Cat.md)
+

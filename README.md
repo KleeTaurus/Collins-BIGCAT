@@ -22,3 +22,5 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 
 [07. Sam the Big Bad Cat](./Read_to_Succeed_Band_03A\(Yellow\)/07.Sam-the-Big-Bad-Cat.md)
 
+[09. Percy and the Rabbit](./Read_to_Succeed_Band_03A\(Yellow\)/09.Percy-and-the-Rabbit.md)
+

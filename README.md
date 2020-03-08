@@ -26,3 +26,6 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 
 [09. Percy and the Rabbit](./Read_to_Succeed_Band_03A\(Yellow\)/09.Percy-and-the-Rabbit.md)
 
+## Band 03B (Yellow)
+
+[01. Rebecca at the Funfair](./Read_to_Succeed_Band_03B\(Yellow\)/01.Rebecca-at-the-Funfair.md)

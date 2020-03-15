@@ -29,3 +29,5 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 ## Band 03B (Yellow)
 
 [01. Rebecca at the Funfair](./Read_to_Succeed_Band_03B\(Yellow\)/01.Rebecca-at-the-Funfair.md)
+
+[02. The Wind](./Read_to_Succeed_Band_03B\(Yellow\)/01.The-Wind.md)

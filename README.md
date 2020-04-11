@@ -32,6 +32,8 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 
 [02. The Wind](./Read_to_Succeed_Band_03B\(Yellow\)/02.The-Wind.md)
 
+[03. Doing Nothing](./Read_to_Succeed_Band_03B\(Yellow\)/03.Doing-Nothing.md)
+
 [05. Rat-a-tat-tat](./Read_to_Succeed_Band_03B\(Yellow\)/05.Rat-a-tat-tat.md)
 
 [06. Hands](./Read_to_Succeed_Band_03B\(Yellow\)/06.Hands.md)

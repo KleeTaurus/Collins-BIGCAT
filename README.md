@@ -41,3 +41,5 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 [06. Hands](./Read_to_Succeed_Band_03B\(Yellow\)/06.Hands.md)
 
 [08. It Was a Cold Dark Night](./Read_to_Succeed_Band_03B\(Yellow\)/08.It-Was-a-Cold-Dark-Night.md)
+
+[09. Rolling](./Read_to_Succeed_Band_03B\(Yellow\)/09.Rolling.md)

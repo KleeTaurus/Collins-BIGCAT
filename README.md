@@ -53,3 +53,5 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 [02. Talk Talk Talk](./Read_to_Succeed_Band_04A\(Blue\)/02.Talk-Talk-Talk.md)
 
 [03. Sounds](./Read_to_Succeed_Band_04A\(Blue\)/03.Sounds.md)
+
+[04. Let's Build a Rocket](./Read_to_Succeed_Band_04A\(Blue\)/04.Let's-Build-a-Rocket.md)

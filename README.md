@@ -59,3 +59,5 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 [05. Tod and the Trumpet](./Read_to_Succeed_Band_04A\(Blue\)/05.Tod-and-the-Trumpet.md)
 
 [06. The Fantastic Flying Squirrel](./Read_to_Succeed_Band_04A\(Blue\)/06.The-Fantastic-Flying-Squirrel.md)
+
+[07. Funny Fish](./Read_to_Succeed_Band_04A\(Blue\)/07.Funny-Fish.md)

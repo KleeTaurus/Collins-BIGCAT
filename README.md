@@ -61,3 +61,5 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 [06. The Fantastic Flying Squirrel](./Read_to_Succeed_Band_04A\(Blue\)/06.The-Fantastic-Flying-Squirrel.md)
 
 [07. Funny Fish](./Read_to_Succeed_Band_04A\(Blue\)/07.Funny-Fish.md)
+
+[08. Harry's Garden](./Read_to_Succeed_Band_04A\(Blue\)/07.Harry's-Garden.md)

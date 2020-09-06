@@ -67,3 +67,7 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 [09. Mojo and Weeza and the Funny Thing](./Read_to_Succeed_Band_04A\(Blue\)/09.Mojo-and-Weeza-and-the-Funny-Thing.md)
 
 [10. Growing and Changing](./Read_to_Succeed_Band_04A\(Blue\)/10.Growing-and-Changing.md)
+
+## Band 04B (Blue)
+
+[01. The Lonely Penguin](./Read_to_Succeed_Band_04B\(Blue\)/01.The-Lonely-Penguin.md)

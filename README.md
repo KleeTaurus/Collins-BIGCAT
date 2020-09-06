@@ -71,3 +71,5 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 ## Band 04B (Blue)
 
 [01. The Lonely Penguin](./Read_to_Succeed_Band_04B\(Blue\)/01.The-Lonely-Penguin.md)
+
+[02. Robots](./Read_to_Succeed_Band_04B\(Blue\)/02.Robots.md)

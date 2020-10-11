@@ -73,3 +73,5 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 [01. The Lonely Penguin](./Read_to_Succeed_Band_04B\(Blue\)/01.The-Lonely-Penguin.md)
 
 [02. Robots](./Read_to_Succeed_Band_04B\(Blue\)/02.Robots.md)
+
+[05. Percy and the Badger](./Read_to_Succeed_Band_04B\(Blue\)/05.Percy-and-the-Badger.md)

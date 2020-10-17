@@ -76,4 +76,6 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 
 [05. Percy and the Badger](./Read_to_Succeed_Band_04B\(Blue\)/05.Percy-and-the-Badger.md)
 
+[08. Top Dinosaurs](./Read_to_Succeed_Band_04B\(Blue\)/08.Top-Dinosaurs.md)
+
 [09. Blast Off to the Moon!](./Read_to_Succeed_Band_04B\(Blue\)/09.Blast-Off-to-the-Moon!.md)

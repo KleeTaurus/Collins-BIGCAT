@@ -79,3 +79,5 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 [08. Top Dinosaurs](./Read_to_Succeed_Band_04B\(Blue\)/08.Top-Dinosaurs.md)
 
 [09. Blast Off to the Moon!](./Read_to_Succeed_Band_04B\(Blue\)/09.Blast-Off-to-the-Moon!.md)
+
+[10. What's Underground?](./Read_to_Succeed_Band_04B\(Blue\)/10.What's-Underground?.md)

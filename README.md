@@ -74,6 +74,8 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 
 [02. Robots](./Read_to_Succeed_Band_04B\(Blue\)/02.Robots.md)
 
+[03. The Steam Train](./Read_to_Succeed_Band_04B\(Blue\)/03.The-Steam-Train.md)
+
 [05. Percy and the Badger](./Read_to_Succeed_Band_04B\(Blue\)/05.Percy-and-the-Badger.md)
 
 [06. Mojo and Weeza and the New Hat](./Read_to_Succeed_Band_04B\(Blue\)/06.Mojo-and-Weeza-and-the-New-Hat.md)

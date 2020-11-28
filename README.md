@@ -82,6 +82,8 @@ You can take the overview of KS1 guided reading book bands [here](Guide_to_the_B
 
 [06. Mojo and Weeza and the New Hat](./Read_to_Succeed_Band_04B\(Blue\)/06.Mojo-and-Weeza-and-the-New-Hat.md)
 
+[07. New from Old Recycling Plastic](./Read_to_Succeed_Band_04B\(Blue\)/07.New-from-Old-Recycling-Plastic.md)
+
 [08. Top Dinosaurs](./Read_to_Succeed_Band_04B\(Blue\)/08.Top-Dinosaurs.md)
 
 [09. Blast Off to the Moon!](./Read_to_Succeed_Band_04B\(Blue\)/09.Blast-Off-to-the-Moon!.md)
